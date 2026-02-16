@@ -42,7 +42,7 @@ Everything is for Free!
 - **[Git Repository](https://github.com/):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
 - **[Notion](https://www.notion.com/):** All-in-one tool for project management and organization.
-- **[Notion Project Steps](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4):** Access to All Project Phases and Tasks.
+- **[Notion Project Steps]([https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4](https://www.notion.so/Data-Warehouse-Project-301a4d07d7c08067b272f842eaae0624?source=copy_link)):** Access to All Project Phases and Tasks.
 
 ---
 
@@ -112,3 +112,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 Hi there! I'm **Richa Singh**, an **Aspiring Data Analyst**. 
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/richa-singh2189)

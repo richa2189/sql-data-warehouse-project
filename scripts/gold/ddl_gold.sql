@@ -60,8 +60,8 @@ SELECT
 		pc.cat									AS category,
 		pc.subcat								AS subcategory,
 		pc.maintainence							AS maintainence,
-		pn.prd_cost								AS product_cost, 
-		pn.prd_start_dt							AS product_start_date
+		pn.prd_cost								AS cost, 
+		pn.prd_start_dt							AS start_date
 FROM silver.crm_prd_info						AS pn
 LEFT JOIN silver.erp_px_cat_g1v2				AS pc
 		ON pn.cat_id = pc.id
